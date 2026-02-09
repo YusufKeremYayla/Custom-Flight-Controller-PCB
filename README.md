@@ -6,11 +6,14 @@
 
 # 
 
-# \## 📷 Board Preview
+# \## 📷 Board Preview 
 
-# \### Top View
 
-# \### Bottom View
+# \### Top View <img width="1199" height="717" alt="Screenshot 2026-02-09 232850" src="https://github.com/user-attachments/assets/f8cfeea4-9032-4728-bca8-26d6a97b3762" />
+
+
+# \### Bottom View <img width="1042" height="693" alt="Screenshot 2026-02-09 233143" src="https://github.com/user-attachments/assets/d4a41496-4427-48cb-bc20-f028c7578eb9" />
+
 
 # ---
 
@@ -54,6 +57,8 @@
 
 # \* \*\*PCB Design:\*\* 2-Layer (Double-Sided) PCB with optimized signal routing.
 
+## 🧩 PCB Layout <img width="1311" height="816" alt="Screenshot 2026-02-09 232418" src="https://github.com/user-attachments/assets/e349d22b-5b6a-400d-8760-02143cba8d5d" />
+
 # 
 
 # \## 📂 Project Structure
@@ -66,7 +71,8 @@
 
 # 
 
-# \## 📐 Schematic Diagram
+# \## 📐 Schematic Diagram <img width="1230" height="863" alt="Screenshot 2026-02-09 232234" src="https://github.com/user-attachments/assets/8156aa4a-477f-4508-ad63-6c0003e6ef0e" />
+
 
 # ---
 
