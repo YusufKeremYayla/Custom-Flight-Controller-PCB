@@ -1,0 +1,22 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [PCB_Project_3.PrjPcb]
+   Generated File[dogrusu_Copper_Signal_Top.gbr]
+   Generated File[dogrusu_Copper_Signal_Bot.gbr]
+   Generated File[dogrusu_Legend_Top.gbr]
+   Generated File[dogrusu_Legend_Bot.gbr]
+   Generated File[dogrusu_Soldermask_Top.gbr]
+   Generated File[dogrusu_Soldermask_Bot.gbr]
+   Generated File[dogrusu_Paste_Top.gbr]
+   Generated File[dogrusu_Paste_Bot.gbr]
+   Generated File[dogrusu_Profile.gbr]
+   Generated File[dogrusu_NPTH_Drill.gbr]
+   Generated File[dogrusu_PTH_Drill.gbr]
+   Generated File[dogrusu.EXTREP]
+   Generated File[dogrusu.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 00:36:46 On 12.12.2025
